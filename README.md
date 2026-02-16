@@ -41,13 +41,13 @@ O Jogo dos Copos é uma API REST que gerencia partidas independentes de um jogo 
 ## 📂 Estrutura do Projeto
 
 ```
-jogo-copos/
+jogoDosCopos/
 ├─ src/
 │  ├─ routes.js        # Rotas da API
 │  └─ gameManager.js   # Lógica do jogo
 ├─ package.json
 ├─ README.md
-└─server.js        # Inicialização do servidor
+└─ server.js        # Inicialização do servidor
 ```
 
 ## 🚀 Como Executar o Projeto
